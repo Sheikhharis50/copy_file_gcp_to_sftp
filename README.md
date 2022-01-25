@@ -1,1 +1,1 @@
-# Copy File Google Cloud Bucket To SFTP
+# Copy File from Google Cloud Bucket to SFTP
